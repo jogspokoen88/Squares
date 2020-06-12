@@ -1,2 +1,2 @@
 # Squares
-game from JS
+Реализация простого SPA на чистом JS. Игра.
